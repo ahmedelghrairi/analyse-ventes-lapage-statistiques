@@ -8,10 +8,8 @@ Lapage est une librairie historiquement physique qui a ouvert son site de vente 
 
 - `01_analyse_ventes_lapage.ipynb` : indicateurs de vente, catalogue, profils clients
 - `02_tests_statistiques_lapage.ipynb` : les cinq tests statistiques demandés par Julie
-- `customers.csv`, `products.csv`, `transactions.csv` : les données sources
+- `donnees_lapage.zip` : les trois fichiers sources (customers.csv, products.csv, Transactions.csv), à décompresser dans le même dossier que les notebooks avant de les exécuter
 - `requirements.txt` : bibliothèques utilisées
-
-Les deux notebooks sont autonomes : chacun recharge les fichiers sources et peut s'exécuter seul, du début à la fin, sans dépendre de l'autre.
 
 ## Les données
 
